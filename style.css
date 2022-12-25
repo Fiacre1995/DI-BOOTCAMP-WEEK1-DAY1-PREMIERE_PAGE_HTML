@@ -1,0 +1,40 @@
+span {
+    background-color: yellow;
+}
+h4 {
+    text-align: center;
+}
+#image1 {
+    width: 300px; 
+    height: 200px; 
+    margin-left: 650px;
+    border: 5px solid red;
+}
+#titre {
+    color: red; 
+    border: 2px solid red; 
+    text-align: center; 
+    width: 500px; 
+    margin-left: 550px;
+}
+table {
+    margin-left: 150px;
+}
+.tr1 {
+    border: 2px solid black;
+}
+#tr2_th1 {
+    border: 2px solid black; 
+    height: 50px; 
+    overflow: hidden;
+}
+#tr2_th2 {
+    border: 2px solid black;
+    height: 50px;
+}
+#lion {
+    border: 5px solid red; 
+    margin-left: 600px; 
+    width: 500px; 
+    height: 400px;
+}
